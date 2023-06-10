@@ -18650,6 +18650,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Admin\\HUMGMVC\\HUMG\\Views\\H38\\Create.cshtml",
+      "TargetPath": "Views\\H38\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\HUMGMVC\\HUMG\\Views\\H38\\Edit.cshtml",
+      "TargetPath": "Views\\H38\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Admin\\HUMGMVC\\HUMG\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -18662,6 +18672,21 @@
     {
       "FilePath": "c:\\Users\\Admin\\HUMGMVC\\HUMG\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\HUMGMVC\\HUMG\\Views\\H38\\Index.cshtml",
+      "TargetPath": "Views\\H38\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\HUMGMVC\\HUMG\\Views\\H38\\Details.cshtml",
+      "TargetPath": "Views\\H38\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\HUMGMVC\\HUMG\\Views\\H38\\Delete.cshtml",
+      "TargetPath": "Views\\H38\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
